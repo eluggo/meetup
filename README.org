@@ -1,11 +1,15 @@
 * ElugGO - Elixir User's Group Goiás
 
-  Este repositório será utilizado como forma de comunicação do ElugGO. Sera a nossa forma de expor o nosso [[CODE_OF_CONDUCT.org][Código de Conduta]] e organizar eventos em conjunto com a comunidade. O intúito do ElugGO inicialmente é promover encontros(meetups) como forma de itegrar a comunidade de pessoas com interesse na linguagem de programação [[https://elixir-lang.org][Elixir]] e de programação funcional como um todo. Este repositório será utilizado como principal forma de organizar estes encontros, usaremos as issues para marcar eventos e organizar os meetups. Não é interesse do ElugGO organizar eventos pagos, nossa vontade é promover a distribuição de conhecimento para fortalecer a comunidade local para que mais empresas se interessem pela utilização de Elixir, e para que haja pessoas com conhecimento para atender esta demanda das empresas que utilizam a linguagem.
+Este repositório será utilizado como forma de comunicação do ElugGO. Será a nossa forma de expor o nosso [[CODE_OF_CONDUCT.org][Código de Conduta]] e organizar eventos em conjunto com a comunidade. 
+
+O intuito do ElugGO, inicialmente, é promover encontros(meetups) como forma de integrar a comunidade de pessoas com interesse na linguagem de programação [[https://elixir-lang.org][Elixir]] e de programação funcional como um todo. Este repositório será utilizado como principal forma de organizar estes encontros.
+
+Usaremos as issues para marcar eventos e organizar os meetups. Não é interesse do ElugGO organizar eventos pagos, nossa vontade é promover a distribuição de conhecimento para fortalecer a comunidade local para que mais empresas se interessem pela utilização de Elixir e para que haja pessoas com conhecimento para atender esta demanda das empresas que utilizam a linguagem.
 
 
 ** Meetups
-  Como forma de marcar os eventos utilizaremos as issues desse repositório, recomendamos que siga(o botão *Watch* no canto superior direito) o repositório. Para evitar qualquer tipo de excesso de notificações, as issues são fechadas para apenas nós da organização do ElugGO podermos abrir issues.
-  As issues seguirão o seguinte modelo:
+
+Como forma de marcar os eventos utilizaremos as issues desse repositório, recomendamos que siga(o botão *Watch* no canto superior direito) o repositório. Para evitar qualquer tipo de excesso de notificações, as issues são fechadas para apenas nós da organização do ElugGO podermos abrir issues. As issues seguirão o seguinte modelo:
   - *Título*: ~{número do evento} - {local do evento} - {data}~
   - *Descrição*: 
     - Horário: Data e horário do evento
